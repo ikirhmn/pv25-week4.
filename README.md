@@ -21,5 +21,10 @@ Dibuat oleh **Rizki Rahman Maulana (F1D022093)**
 ## Proses
 
 1. Design UI di qt designer <br>
+![Nama Gambar](https://github.com/ikirhmn/pv25-week4./blob/main/assets/Screenshot%20(719).png)
 2. Convert hasil qt designer yang berformat `.ui` ke format `.py` <br>
+![Nama Gambar](https://github.com/ikirhmn/pv25-week4./blob/main/assets/Screenshot%20(720).png)
 3. Tampilan hasil run aplikasi <br>
+![Nama Gambar](https://github.com/ikirhmn/pv25-week4./blob/main/assets/Screenshot%20(721).png)
+![Nama Gambar](https://github.com/ikirhmn/pv25-week4./blob/main/assets/Screenshot%20(722).png)
+
